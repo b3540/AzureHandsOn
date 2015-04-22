@@ -1,0 +1,7 @@
+Server=tcp:tq7olbgpnk.database.windows.net;
+Database=garicake_db;
+User ID=garicake@tq7olbgpnk;
+Password={********};
+Trusted_Connection=False;
+Encrypt=True;
+Connection Timeout=30;
